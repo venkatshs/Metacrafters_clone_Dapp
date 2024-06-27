@@ -1,6 +1,6 @@
 # Metacrafters_clone_Dapp
 
-This is a simple application in which we can join the challenges(i.eCourses) and also can submit the quests after completing them.I have used react for the frontend part
+This is a simple application in which we can join the challenges(i.eCourses) and also can submit the Courses after completing them.I have used react for the frontend part
 
 
 ## Installation
