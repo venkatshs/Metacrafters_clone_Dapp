@@ -5,7 +5,7 @@ This is a simple application in which we can join the challenges(i.eCourses) and
 
 ## Installation
 
-First clone the project using this
+First clone the project using this : https://github.com/venkatshs/Metacrafters_clone_Dapp.git
 
 Next open the terminal and navigagte to smart-contract directory by using 
 ```bash
